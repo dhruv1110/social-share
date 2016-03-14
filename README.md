@@ -1,4 +1,4 @@
-# social-share
+# Library for Social sharing button implementation
 
 This is used for implements social services sharing buttons to your website.
 
