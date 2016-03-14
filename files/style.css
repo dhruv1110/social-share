@@ -1,0 +1,15 @@
+.social-share
+{
+	list-style-type:none;
+}
+.social-share > li
+{
+	padding:5px;
+}
+.social-share:hover
+{
+	opacity:0.5;
+		-webkit-transition: all .75s;
+		   -moz-transition: all .75s;
+				transition: all .75s;
+}
