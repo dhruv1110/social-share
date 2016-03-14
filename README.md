@@ -54,4 +54,4 @@ It helps to create buttons with minimum coding effort.
 
 So, Keep enjoy guysss..
 If you found any bug or give me a suggestion mail me [dhruv.p1110@gmail.com](mailto:dhruv.p1110@gmail.com)
-My website [WebBudds](http://www.webbudds.com)
+My website [Dhruv Patel](http://dhruvpatel.net)
